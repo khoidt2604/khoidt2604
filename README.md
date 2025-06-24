@@ -11,7 +11,4 @@ I enjoy working on machine learning, data analysis, and building useful tools in
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/khoi264)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/khoidt2604)
 
-## 📈 GitHub Stats
-![Khoi's GitHub stats](https://github-readme-stats.vercel.app/api?username=khoidt2604&show_icons=true&theme=tokyonight)
-
 
