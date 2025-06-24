@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Welcome to my GitHub!
 
-<!--
-**khoidt2604/khoidt2604** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Khoi, a Master's student in Data Science at Monash University.  
+I enjoy working on machine learning, data analysis, and building useful tools in Python and R.
 
-Here are some ideas to get you started:
+## 🔭 Current Projects
+- 🎓 Predicting student dropout using machine learning  
+- 🌤️ Weather visualization and trend analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to reach me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](http://www.linkedin.com/in/khoi264.pdf)  
+[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ngominhkhoi0203@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/khoidt2604)
+
+## 📈 GitHub Stats
+![Khoi's GitHub stats](https://github-readme-stats.vercel.app/api?username=khoidt2604&show_icons=true&theme=tokyonight)
+
