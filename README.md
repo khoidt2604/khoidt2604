@@ -2,6 +2,7 @@
 
 I'm Khoi, a Master's student in Data Science at Monash University.  
 I enjoy working on machine learning, data analysis, and building useful tools in Python and R.
+
 I'm also experienced with SQL for data querying and Tableau for creating interactive visualisations.
 
 ## 🔭 Current Projects
