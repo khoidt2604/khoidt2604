@@ -20,7 +20,7 @@ I'm Khoi, a Master's student in Data Science at Monash University. I enjoy worki
   Analysis of solar energy performance data at Monash, with insights into energy efficiency. (Repo: `Monash_solar`)
 
 - 📸 Flickr Photo Metadata EDA  
-  An exploratory data analysis project on Flickr photo metadata, focusing on cleaning XML/JSON data, spatial–temporal patterns, and insights for future machine learning tasks. (Repo: `flickr-photo-metadata-eda`)
+  An exploratory data analysis project on Flickr photo metadata, focusing on cleaning XML/JSON data, spatial–temporal patterns, and insights for future machine learning tasks. (Repo: `Exploratory-Data-Analysis`)
 
 
 - 📊 **Data Science Capstone**  
