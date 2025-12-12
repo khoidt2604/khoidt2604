@@ -22,9 +22,12 @@ I'm Khoi, a Master's student in Data Science at Monash University. I enjoy worki
 - 📸 Flickr Photo Metadata EDA  
   An exploratory data analysis project on Flickr photo metadata, focusing on cleaning XML/JSON data, spatial–temporal patterns, and insights for future machine learning tasks. (Repo: `Exploratory-Data-Analysis`)
 
-
 - 📊 **Data Science Capstone**  
   A capstone project applying machine learning and statistical analysis to a real-world dataset. (Repo: `Data_Science_Capstone`)
+
+- 🧹 Data Cleaning & Feature Scaling  
+  A two-part project focused on cleaning a dirty e-commerce orders dataset and preparing suburb-level housing data for linear regression using different scaling and transformation techniques. (Repo: `data-cleaning-and-feature-scaling`)
+
 
 
 ## 📫 How to reach me:
