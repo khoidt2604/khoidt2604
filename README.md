@@ -31,6 +31,12 @@ I'm Khoi, a Master's student in Data Science at Monash University. I enjoy worki
 - 🚲 Bike Buyers Excel Dashboard  
   An Excel-based data analysis project that cleans customer bike sales data, creates derived features such as age brackets, and builds Pivot Tables, charts, and an interactive dashboard with slicers to explore purchasing behaviour. (Repo: `bike-buyers-excel-dashboard`)
 
+- 📊 Data Professional Data Breakdown Dashboard  
+  A Power BI dashboard project that cleans and transforms survey data using Power Query and DAX, then visualises salary, job title, programming language, and satisfaction trends among data professionals. (Repo: `data-professional-survey-powerbi`)
+
+- 🏠 Airbnb Listings Tableau Analysis  
+  A Tableau project that joins listings and calendar data to analyse Airbnb pricing, bedroom distribution, zipcode patterns, and yearly revenue through an interactive dashboard. (Repo: `airbnb-listings-tableau-analysis`)
+
 ## 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/khoi264)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/khoidt2604)
