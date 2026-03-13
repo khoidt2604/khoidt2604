@@ -1,6 +1,6 @@
 # 👋 Welcome to my GitHub!
 
-I'm Khoi, a Master's student in Data Science at Monash University. I enjoy working on machine learning, data analysis, and developing practical tools using Python and R. I have experience with SQL for data querying and Tableau for creating interactive visualisations.
+I'm Khoi, a Master's student in Data Science at Monash University. I enjoy working on machine learning, data analysis, and developing practical tools using Python and R. I have experience with SQL for data querying and Tableau, Power BI for creating interactive visualisations.
 
 ## 📡 Current Projects
 
