@@ -32,7 +32,7 @@ I'm Khoi, a Master's student in Data Science at Monash University. I enjoy worki
   An Excel-based data analysis project that cleans customer bike sales data, creates derived features such as age brackets, and builds Pivot Tables, charts, and an interactive dashboard with slicers to explore purchasing behaviour. (Repo: `Bike_Sales_project`)
 
 - 📊 Data Professional Data Breakdown Dashboard  
-  A Power BI dashboard project that cleans and transforms survey data using Power Query and DAX, then visualises salary, job title, programming language, and satisfaction trends among data professionals. (Repo: `data-professional-survey-powerbi`)
+  A Power BI dashboard project that cleans and transforms survey data using Power Query and DAX, then visualises salary, job title, programming language, and satisfaction trends among data professionals. (Repo: `data_professional_data_breakdown_project`)
 
 - 🏠 Airbnb Listings Tableau Analysis  
   A Tableau project that joins listings and calendar data to analyse Airbnb pricing, bedroom distribution, zipcode patterns, and yearly revenue through an interactive dashboard. (Repo: `airbnb-listings-tableau-analysis`)
