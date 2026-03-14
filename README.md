@@ -29,7 +29,7 @@ I'm Khoi, a Master's student in Data Science at Monash University. I enjoy worki
   A two-part project focused on cleaning a dirty e-commerce orders dataset and preparing suburb-level housing data for linear regression using different scaling and transformation techniques. (Repo: `data-cleaning-and-feature-scaling`)
 
 - 🚲 Bike Buyers Excel Dashboard  
-  An Excel-based data analysis project that cleans customer bike sales data, creates derived features such as age brackets, and builds Pivot Tables, charts, and an interactive dashboard with slicers to explore purchasing behaviour. (Repo: `bike-buyers-excel-dashboard`)
+  An Excel-based data analysis project that cleans customer bike sales data, creates derived features such as age brackets, and builds Pivot Tables, charts, and an interactive dashboard with slicers to explore purchasing behaviour. (Repo: `Bike_Sales_project`)
 
 - 📊 Data Professional Data Breakdown Dashboard  
   A Power BI dashboard project that cleans and transforms survey data using Power Query and DAX, then visualises salary, job title, programming language, and satisfaction trends among data professionals. (Repo: `data-professional-survey-powerbi`)
