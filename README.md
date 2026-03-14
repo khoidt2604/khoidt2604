@@ -35,7 +35,7 @@ I'm Khoi, a Master's student in Data Science at Monash University. I enjoy worki
   A Power BI dashboard project that cleans and transforms survey data using Power Query and DAX, then visualises salary, job title, programming language, and satisfaction trends among data professionals. (Repo: `data_professional_data_breakdown_project`)
 
 - 🏠 Airbnb Listings Tableau Analysis  
-  A Tableau project that joins listings and calendar data to analyse Airbnb pricing, bedroom distribution, zipcode patterns, and yearly revenue through an interactive dashboard. (Repo: `airbnb-listings-tableau-analysis`)
+  A Tableau project that joins listings and calendar data to analyse Airbnb pricing, bedroom distribution, zipcode patterns, and yearly revenue through an interactive dashboard. (Repo: `Airbnb_listings_analysis_project`)
 
 ## 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/khoi264)  
