@@ -37,6 +37,12 @@ I'm Khoi, a Master's student in Data Science at Monash University. I enjoy worki
 - 🏠 Airbnb Listings Tableau Analysis  
   A Tableau project that joins listings and calendar data to analyse Airbnb pricing, bedroom distribution, zipcode patterns, and yearly revenue through an interactive dashboard. (Repo: `Airbnb_listings_analysis_project`)
 
+- 🧹 Tech Layoffs Data Cleaning in SQL  
+  A SQL project that cleans a tech layoffs dataset using staging tables, duplicate removal, standardization, null handling, and date conversion to prepare the data for analysis. (Repo: `tech-layoffs-data-cleaning-sql`)
+
+- 📊 Tech Layoffs Exploratory Data Analysis in SQL  
+  A SQL EDA project that explores layoffs trends across companies, industries, countries, and time using aggregations, CTEs, window functions, rankings, and rolling totals. (Repo: `tech-layoffs-eda-sql`)
+
 ## 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/khoi264)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/khoidt2604)
