@@ -52,6 +52,9 @@ I'm Khoi, a Master's student in Data Science at Monash University. I enjoy worki
 - 🎬 Movie Analysis Project  
   A Python exploratory data analysis project that uses Pandas, NumPy, Seaborn, and Matplotlib to examine how budget, votes, and other movie features relate to box office gross revenue. (Repo: `Movie_analysis`)
 
+- 🔄 Automate API Extraction Project  
+  A Python automation project that uses API extraction, Pandas, and data visualisation to collect and analyze cryptocurrency market data, including short- and long-term percentage changes across major coins. (Repo: `Automate-API-extraction`)
+
 ## 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/khoi264)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/khoidt2604)
