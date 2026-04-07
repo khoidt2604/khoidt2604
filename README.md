@@ -49,6 +49,9 @@ I'm Khoi, a Master's student in Data Science at Monash University. I enjoy worki
 - 🌍 Emissions Dashboard in Databricks  
   A Databricks SQL dashboard project that transforms greenhouse gas emissions data into interactive visualisations showing geographic distribution, emissions per person, top-emitting states, and highest-emitting counties across the US. (Repo: `Emissions_analysis_databricks`)
 
+- 🎬 Movie Analysis Project  
+  A Python exploratory data analysis project that uses Pandas, NumPy, Seaborn, and Matplotlib to examine how budget, votes, and other movie features relate to box office gross revenue. (Repo: `Movie_analysis`)
+
 ## 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/khoi264)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/khoidt2604)
