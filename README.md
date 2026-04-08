@@ -55,6 +55,9 @@ I'm Khoi, a Master's student in Data Science at Monash University. I enjoy worki
 - 🔄 Automate API Extraction Project  
   A Python automation project that uses API extraction, Pandas, and data visualisation to collect and analyze cryptocurrency market data, including short- and long-term percentage changes across major coins. (Repo: `Automate-API-extraction`)
 
+- 🛒 Amazon Web Scraper Project  
+  A Python web scraping project that uses Requests, BeautifulSoup, Pandas, and CSV automation to track Amazon product prices over time and support email alert notifications. (Repo: `Amazon-web-scraper`)
+
 ## 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/khoi264)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/khoidt2604)
