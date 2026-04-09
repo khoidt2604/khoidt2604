@@ -12,13 +12,7 @@ I'm Khoi, a Master's student in Data Science at Monash University. I enjoy worki
 
 - 🌍 **Water Resource Visualisation**  
   An R-based project that builds interactive and static visualisations to explore water usage trends and sustainability practices. (Repo: `water_resource_visualisation`)
-
-- 🌤️ **Melbourne Weather Analysis**  
-  A time series analysis and visualisation of Melbourne’s weather data to understand seasonal patterns. (Repo: `Melbourne_Weather`)
-
-- ☀️ **Solar Energy in Monash**  
-  Analysis of solar energy performance data at Monash, with insights into energy efficiency. (Repo: `Monash_solar`)
-
+  
 - 📸 Flickr Photo Metadata EDA  
   An exploratory data analysis project on Flickr photo metadata, focusing on cleaning XML/JSON data, spatial–temporal patterns, and insights for future machine learning tasks. (Repo: `Exploratory-Data-Analysis`)
 
