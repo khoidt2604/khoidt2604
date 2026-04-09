@@ -68,7 +68,7 @@ I'm Khoi, a Master's student in Data Science at Monash University. I enjoy worki
   A Python financial analysis project that cleans historical stock price data, analyzes return distributions and correlations, and prepares a reliable stock universe for portfolio optimisation. (Repo: `Optimising-Stock-Portfolios`)
 
 - 🌦️ Predicting Melbourne Weather  
-  A Python machine learning project that cleans raw weather data, engineers meteorological features, and compares classification models with and without SMOTE to predict rainfall occurrence and intensity. (Repo: `Predicting-Melbourne-Weather`)
+  A Python machine learning project that cleans raw weather data, engineers meteorological features, and compares classification models with and without SMOTE to predict rainfall occurrence and intensity. (Repo: `Predicting_Melbourne_Weather`)
 
 ## 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/khoi264)  
