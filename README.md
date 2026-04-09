@@ -64,6 +64,9 @@ I'm Khoi, a Master's student in Data Science at Monash University. I enjoy worki
 - ☀️ Monash Solar Energy Forecasting  
   A Python machine learning project that integrates solar panel and weather data to forecast solar energy generation and identify the most important environmental drivers of panel output. (Repo: `Monash-Solar-Energy-Forecasting`)
 
+- 📊 Optimising Stock Portfolios  
+  A Python financial analysis project that cleans historical stock price data, analyzes return distributions and correlations, and prepares a reliable stock universe for portfolio optimisation. (Repo: `Optimising-Stock-Portfolios`)
+
 ## 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/khoi264)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/khoidt2604)
