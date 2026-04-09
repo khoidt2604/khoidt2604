@@ -76,6 +76,9 @@ A statistical modelling project that applies Bayesian inference, gamma modelling
 - 📈 **Bayesian and GAM Analysis of Daily COVID-19 Cases**  
   A statistical modelling project that uses Bayesian inference, generalized additive models (GAMs), and gamma regression to analyse and predict daily COVID-19 case trends. (Repo: `Bayesian-Gam-Covid-Cases`)
 
+- 🎭 **Mapping Victoria's Performing Arts Events**  
+  An R Shiny visualisation project that maps performing arts venues across Victoria and analyses the top 10 most frequently used venues by event count and genre. (Repo: `Mapping-Victoria-Performing-Arts-Events`)
+
 ## 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/khoi264)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/khoidt2604)
