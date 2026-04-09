@@ -70,6 +70,9 @@ I'm Khoi, a Master's student in Data Science at Monash University. I enjoy worki
 - 🌦️ Predicting Melbourne Weather  
   A Python machine learning project that cleans raw weather data, engineers meteorological features, and compares classification models with and without SMOTE to predict rainfall occurrence and intensity. (Repo: `Predicting_Melbourne_Weather`)
 
+• 🧠 Bayesian Analysis of COVID-19 Cases and Housing Data  
+A statistical modelling project that applies Bayesian inference, gamma modelling, posterior analysis, and Bayesian regression to COVID-19 case data and housing price data. (Repo: `Bayesian-Analysis-Covid-Housing`)
+
 ## 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/khoi264)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/khoidt2604)
