@@ -59,7 +59,7 @@ I'm Khoi, a Master's student in Data Science at Monash University. I enjoy worki
   A Python web scraping project that uses Requests, BeautifulSoup, Pandas, and CSV automation to track Amazon product prices over time and support email alert notifications. (Repo: `Amazon-web-scraper`)
 
 - 📈 Rossmann Store Sales Forecasting  
-  A Python forecasting project that uses data cleaning, exploratory analysis, and linear regression to predict Rossmann store sales based on customer activity, promotions, and holiday effects. (Repo: `Rossmann-sales-forecasting`)
+  A Python forecasting project that uses data cleaning, exploratory analysis, and linear regression to predict Rossmann store sales based on customer activity, promotions, and holiday effects. (Repo: `Sales-Forecasting`)
 
 ## 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/khoi264)  
