@@ -80,7 +80,7 @@ A statistical modelling project that applies Bayesian inference, gamma modelling
   An R Shiny visualisation project that maps performing arts venues across Victoria and analyses the top 10 most frequently used venues by event count and genre. (Repo: `Mapping-Victoria-Performing-Arts-Events`)
 
 - 🎭 **Kelley Abbey's Victorian Stage Contribution and Collaboration Network**  
-  An interactive D3.js network visualisation project that explores event contributions and collaboration patterns in Victorian performing arts data. (Repo: `Mapping-Victoria-Performing-Arts-Events`)
+  An interactive D3.js network visualisation project that explores event contributions and collaboration patterns in Victorian performing arts data. (Repo: `Contribution_and_Collaboration_Network_D3`)
 
 ## 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/khoi264)  
