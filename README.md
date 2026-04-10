@@ -5,7 +5,7 @@ I'm Khoi, a Master's student in Data Science at Monash University. I enjoy worki
 ## 📡 Current Projects
 
 - 🎓 **Predict Student Dropout**  
-  A machine learning project that predicts the likelihood of student dropout using classification models and feature engineering techniques. (Repo: `predict-student-dropout`)
+  A machine learning project that predicts the likelihood of student dropout using classification models and feature engineering techniques. (Repo: `Predict-student-dropout`)
 
 - 💧 **Water Resource Exploration**  
   A data science investigation of water usage, sustainability metrics, and irrigation practices across different regions. (Repo: `Water_resource_exploration`)
