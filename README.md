@@ -85,6 +85,9 @@ A statistical modelling project that applies Bayesian inference, gamma modelling
 - 📡 **Road Accident Streaming Analytics with PySpark and Kafka**  
   A real-time analytics project that uses Kafka, PySpark Streaming, and visualisation to monitor accident severity patterns and district-level trends. (Repo: `Road_accident_streaming_analytics`)
 
+- 🧬 **Proteome and Translatome Analysis of SARS-CoV-2 Infection**  
+  A bioinformatics project that compares proteome and translatome responses during SARS-CoV-2 infection using protein detection analysis, overlap comparison, and differential expression visualisation. (Repo: `Proteome_translatome_sars_cov_2_analysis`)
+
 ## 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/khoi264)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/khoidt2604)
