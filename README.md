@@ -77,7 +77,7 @@ A statistical modelling project that applies Bayesian inference, gamma modelling
   An interactive D3.js network visualisation project that explores event contributions and collaboration patterns in Victorian performing arts data. (Repo: `Contribution_and_Collaboration_Network_D3`)
 
 - 🚗 **Road Safety Data Analysis and Query Optimisation with PySpark**  
-  A PySpark project that analyses road safety data, explores accident patterns, and applies Spark SQL and query optimisation techniques to improve performance. (Repo: `Road-safety-analysis-pyspark`)
+  A PySpark project that analyses road safety data, explores accident patterns, and applies Spark SQL and query optimisation techniques to improve performance. (Repo: `Road_safety_analysis_pyspark`)
 
 ## 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/khoi264)  
