@@ -79,6 +79,9 @@ A statistical modelling project that applies Bayesian inference, gamma modelling
 - 🚗 **Road Safety Data Analysis and Query Optimisation with PySpark**  
   A PySpark project that analyses road safety data, explores accident patterns, and applies Spark SQL and query optimisation techniques to improve performance. (Repo: `Road_safety_analysis_pyspark`)
 
+- 🚗 **Road Accident Severity Prediction with PySpark**  
+  A PySpark machine learning project that predicts accident severity using feature engineering, imputation, regression models, and model tuning. (Repo: `Road_accident_severity_prediction_pyspark`)
+
 ## 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/khoi264)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/khoidt2604)
