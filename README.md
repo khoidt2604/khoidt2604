@@ -82,6 +82,9 @@ A statistical modelling project that applies Bayesian inference, gamma modelling
 - 🚗 **Road Accident Severity Prediction with PySpark**  
   A PySpark machine learning project that predicts accident severity using feature engineering, imputation, regression models, and model tuning. (Repo: `Road_accident_severity_prediction_pyspark`)
 
+- 📡 **Road Accident Streaming Analytics with PySpark and Kafka**  
+  A real-time analytics project that uses Kafka, PySpark Streaming, and visualisation to monitor accident severity patterns and district-level trends. (Repo: `Road_accident_streaming_analytics`)
+
 ## 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/khoi264)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/khoidt2604)
